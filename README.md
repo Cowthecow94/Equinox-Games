@@ -1,6 +1,6 @@
 # Equinox
 
-**Cool web proxy / games service, not finna be a thing for a long time tho o7**
+**Cool web proxy / games service, brought back and changed a lot!**
 
 # Feature List
 
@@ -10,3 +10,4 @@
 **Hidden "login" page**
 **4 Themes, very easy to add more, make a suggestion in if you have a theming idea!**
 **3 Apps (Can add more easily, once again make a to add more.)**
+**NEW LINKS SHOWN IN SITE!**
